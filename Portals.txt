@@ -1,0 +1,10 @@
+Portals~What information do we need to verify over the phone in order to reset their security question?~first and last name, last 4 digits of SSN, and birthdate~850, username, and birthdate~850, last 4 digits of SSN, and phone number~2
+Portals~When logging into SeaNet at https:\\seanet.uncw.edu, you should input your domain user name and password~false, for seanet you must use your 850 # and 8 digit birthdate~true, that is the correct log in information~false, you log in with your SSN and email~1
+Portals~After logging into SeaNet, what tab do I click in order to register for classes?~student services~academic services~employee services~1
+Portals~I forgot my pin. How can I retrieve it?~Go to the Pin retrieval page, located on the SeaNet login page (the link says "HERE")~call the TAC and we can give it to them over the phone~Log into myseaport and retrieve it from there~1
+Portals~In TAC Staff SharePoint you can click "contacts" in the left pane to view all the contact information of the staff and students wokring at the Technology Assistance Center, and why?~fasle, the contact information is in TAC students on the right hand side~true, the contact information is shown after clicking on the "contacts" button~false, the contact information is in Tacology on Blackboard ~1
+Portals~question~right answer~wrong answer 1~wrong answer 2~1
+Portals~question~right answer~wrong answer 1~wrong answer 2~2
+Portals~question~right answer~wrong answer 1~wrong answer 2~3
+Portals~question~right answer~wrong answer 1~wrong answer 2~4
+Portals~question~right answer~wrong answer 1~wrong answer 2~5

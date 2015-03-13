@@ -1,0 +1,28 @@
+TACling # 0 Name: Alex Score: 5000
+TACling # 1 Name: Aziz Score: 7200
+
+Alex answered a Network Tools question correctly. The question was 'question'
+Aziz answered a Wendia question correctly. The question was 'question'
+Alex answered a Equipment Checkout question correctly. The question was  'a'.
+Aziz answered a Getting Started question correctly. The question was 'It is always best to help the client with their computer right at the front desk in order to resolve their issue quickly'
+Alex answered a Portals question correctly. The question was  'When logging into SeaNet at https:\\seanet.uncw.edu, you should input your domain user name and password'.
+Aziz answered a Network Tools question correctly. The question was 'What is the storage limit on a Timmy drive?'
+Alex answered a Wendia question correctly. The question was 'If someone calls TAC requesting to speak to another member of ITS, immediately transfer the person and do not worry about a ticket as that ITS member will be responsible for it'
+Aziz answered a Equipment Checkout question correctly. The question was 'question'
+Alex answered a Getting Started question correctly. The question was 'It is okay to turn in timesheets late as long as it is only one or two days late.'
+Aziz answered a Portals question correctly. The question was 'I forgot my pin. How can I retrieve it?'
+Alex answered a Network Tools question correctly. The question was 'Every student has a Timmy drive'
+Aziz answered a Wendia question correctly. The question was 'Once logged in to ITSRequest, a person can see all tickets they have ever created'
+Alex answered a Equipment Checkout question correctly. The question was 'a'
+Aziz answered a Getting Started question correctly. The question was 'It is important to have appropriate hygeine when you come to work at the TAC'
+Alex answered a Portals question correctly. The question was 'What information do we need to verify over the phone in order to reset their security question?'
+Aziz answered a Network Tools question correctly. The question was 'What is the storage limit on student web folders?'
+Alex answered a Wendia question correctly. The question was 'question'
+Aziz answered a Equipment Checkout question correctly. The question was 'question'
+Alex answered a Getting Started question correctly. The question was 'Timesheets are stored in SharePoint in the TAC Students folder'
+Aziz answered a Portals question correctly. The question was 'question'
+Alex answered a Network Tools question correctly. The question was  'You can access the student Timmy folder by going to Start>>Run and typing…'.
+Aziz answered a Wendia question correctly. The question was 'question'
+Alex answered a Equipment Checkout question correctly. The question was 'question'
+Aziz answered a Getting Started question correctly. The question was 'You are responsible for letting Dali and Viet know of an unscheduled shift change that will affect your time sheet'
+Alex answered a Portals question correctly. The question was 'question'

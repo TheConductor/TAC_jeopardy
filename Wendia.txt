@@ -1,0 +1,5 @@
+Wendia~question~right answer~wrong answer 1~wrong answer 2~1
+Wendia~If someone calls TAC requesting to speak to another member of ITS, immediately transfer the person and do not worry about a ticket as that ITS member will be responsible for it~false, always call and ask the ITS member if it is okay to transfer the call before doing so and assign the ticket to the appropriate group~true, in order to make a call go faster, immediate transfers are okay~true, ITS members are never too busy for a transfer call or to make a ticket~2
+Wendia~Once logged in to ITSRequest, a person can see all tickets they have ever created~false, the client can only see their open tickets~true, after logging in clients can see all tickets they've ever submitted~true, clients can see the ticket queue just like TAC student workers~3
+Wendia~question~right answer~wrong answer 1~wrong answer 2~4
+Wendia~question~right answer~wrong answer 1~wrong answer 2~5

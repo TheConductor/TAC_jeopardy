@@ -1,0 +1,7 @@
+AskTac~How can you get to the AskTAC Website?~Type in https:\\asktac.uncw.edu~Type in https:\\www.uncw.edu:asktac~Type in https:\\www.uncw.com:asktac~1
+AskTac~Once at the AskTAC Self-Service Portal, what credentials do you use to log in?~Domain username and password~850 number and password~full uncw email and password~1
+AskTac~What is AskTAC?~A centralized, technical support knowledgebase for help desk analysts and end users~A Google site for UNCW~A spaceship~1
+AskTac~question~right answer~wrong answer 1~wrong answer 2~2
+AskTac~question~right answer~wrong answer 1~wrong answer 2~3
+AskTac~question~right answer~wrong answer 1~wrong answer 2~4
+AskTac~question~right answer~wrong answer 1~wrong answer 2~5

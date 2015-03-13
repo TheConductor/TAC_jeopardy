@@ -1,0 +1,10 @@
+Network Tools~What is the storage limit on a Timmy drive?~20 MB~30 MB~50 MB~2
+Network Tools~Students can access Timmy off campus only via FTP~false, students can access Timmy off campus through VPN~true, FTP is their only option off campus~false, students can access Timmy online wherever they are~2
+Network Tools~You can access the student Timmy folder by going to Start>>Run and typing…~\\timmy or  \\timmy\students~ \\timmy\username~only \\timmy\students~2
+Network Tools~Every student has a Timmy drive~true, every active UNCW student has a Timmy drive~false, international students do not have Timmy drives~false, transfer students do not have Timmy drives~2
+Network Tools~What is the storage limit on student web folders?~20 MB~10 MB~30 MB~2
+Network Tools~question~right answer~wrong answer 1~wrong answer 2~1
+Network Tools~question~right answer~wrong answer 1~wrong answer 2~2
+Network Tools~question~right answer~wrong answer 1~wrong answer 2~3
+Network Tools~question~right answer~wrong answer 1~wrong answer 2~4
+Network Tools~question~right answer~wrong answer 1~wrong answer 2~5
